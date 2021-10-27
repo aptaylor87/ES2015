@@ -1,0 +1,8 @@
+const PI = 3.14;
+PI = 42
+
+What is the difference between var and let? var will allow redeclaration while let will not. Var uses function scope while let uses block scope.
+What is the difference between var and const? const won't allow reassingment or redeclaration while var will. const uses block scope while var uses function scope.
+What is the difference between let and const? let will allow reassigment and const will not. 
+What is hoisting? Variable declarations run when code is compiled and this can lead to definition errors. 
+
